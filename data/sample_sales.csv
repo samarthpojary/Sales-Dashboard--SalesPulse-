@@ -1,0 +1,8 @@
+order_id,product_name,category,region,sales,profit,order_date
+ORD001,Printer A,Technology,South,25000,3500,2024-02-12
+ORD002,Desk Chair,Furniture,North,12000,1500,2024-02-15
+ORD003,Notebook,Office Supplies,East,8000,1000,2024-02-18
+ORD004,Monitor X,Technology,West,20000,3000,2024-02-20
+ORD005,Pen,Office Supplies,South,5000,700,2024-03-01
+ORD006,Stapler,Office Supplies,North,3200,450,2024-03-05
+ORD007,Desk Lamp,Furniture,East,6500,900,2024-03-10
