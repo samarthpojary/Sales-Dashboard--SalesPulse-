@@ -1,5 +1,6 @@
 <?php
 // Login page
+//Front page for user login.
 include('config/db.php');
 session_start();
 if (isset($_SESSION['user'])) header('Location: dashboard.php');
@@ -14,6 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($res && $res->num_rows === 1) {
         $user = $res->fetch_assoc();
         // Use password_verify for hashed passwords
+        // USer authentication
         if (password_verify($password, $user['password'])) {
             $_SESSION['user'] = ['id'=>$user['id'],'username'=>$user['username'],'role'=>$user['role']];
             header('Location: dashboard.php');

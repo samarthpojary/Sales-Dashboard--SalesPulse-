@@ -21,7 +21,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 include('includes/header.php');
 ?>
 <main class="center">
-  <h2>Register (create admin)</h2>
+  <h2>Register (create-admin)</h2>
   <?php if ($message): ?><div class="notice"><?php echo htmlspecialchars($message); ?></div><?php endif; ?>
   <form method="post">
     <input name="username" placeholder="Username" required>
@@ -29,6 +29,6 @@ include('includes/header.php');
     <select name="role"><option value="admin">admin</option><option value="user">user</option></select>
     <button type="submit">Create</button>
   </form>
-  <p style="font-size:13px;color:#555;">After creating admin, delete or protect this file.</p>
+  <p style="font-size:13px;color:#555;">After creating admin, delete or protect this file. yOU nOW can delete this file FTER ADDING THE DATA</p>
 </main>
 <?php include('includes/footer.php'); ?>

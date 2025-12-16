@@ -24,3 +24,4 @@ Monthly Trends
 This project demonstrates my skills in full-stack development, database design, data visualization, and creating user-friendly business applications.
 #WebDevelopment #PHP #MySQL #DataAnalytics #Dashboard #BusinessIntelligence #FullStack #DataVisualization #SalesAnalytics
 
+@samarthdev07@gmail.com
