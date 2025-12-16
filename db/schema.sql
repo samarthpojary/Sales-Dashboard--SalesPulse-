@@ -20,3 +20,6 @@ CREATE TABLE IF NOT EXISTS sales (
     profit DECIMAL(12,2),
     order_date DATE
 );
+//Just Inpot this in xaamp or any other sql database to create the required database and tables for the project.
+//Make sure to change the database connection settings in the project configuration to connect to this database.
+// Enjoy!
