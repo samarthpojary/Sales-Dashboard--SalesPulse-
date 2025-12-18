@@ -5,12 +5,12 @@ body{ font-family:Arial,Helvetica,sans-serif; background:#b4bcd0; color:#040000;
 .container{ width:980px; margin:0 auto; padding:18px 0; }
 .center{ width:420px; margin:60px auto; padding:22px; background:#fff; border-radius:8px; box-shadow:0 8px 24px rgba(13,110,253,0.08); text-align:center; }
 .center input, .center select{ width:100%; padding:8px; margin:8px 0; border-radius:6px; border:1px solid #ddd; }
-.center button{ padding:10px 12px; background:#022e70; color:white; border:none; border-radius:6px; cursor:pointer; font-weight:700; }
+.center button{ padding:10px 12px; background:#526178; color:white; border:none; border-radius:6px; cursor:pointer; font-weight:700; }
 .filters select, .filters input[type=date]{ padding:8px; border-radius:6px; border:1px solid #ddd; }
-.kpis .card{ background:#938181; padding:12px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); min-width:160px; }
+.kpis .card{ background:#925959; padding:12px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.06); min-width:160px; }
 .data-table{ width:100%; border-collapse:collapse; margin-top:12px; }
 .data-table th, .data-table td{ padding:8px; border-bottom:1px solid #a58a8a; text-align:left; }
 .chart-container{ width:100%; max-width:900px; margin:20px auto; background:#897171; padding:14px; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.03); }
 .table-print{ width:100%; border-collapse:collapse; }
-.table-print th, .table-print td{ border:1px solid #7d6969; padding:8px; }
-.notice{ background:#678874; border:1px solid #c8f3d6; padding:10px; border-radius:6px; margin-bottom:12px; }
+.table-print th, .table-print td{ border:1px solid #d1a5a5; padding:8px; }
+.notice{ background:#20944e; border:1px solid #73937e; padding:10px; border-radius:6px; margin-bottom:12px; }
