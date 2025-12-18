@@ -9,7 +9,7 @@
 <body>
 <header class="site-header">
   <div class="wrap">
-    <div class="brand">📈 Sales Dashboard</div>
+    <div class="brand">📈 Sales Dashboard And Analytics</div>
     <nav class="main-nav">
       <a href="dashboard.php">Dashboard</a>
       <a href="upload.php">Upload</a>
